@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my field positions
 - 📫 How to reach me amsaleh.r81@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: coding . . .
+- ⚡ Fun fact: coding . . . .
 
 <!---
 Amirsaleh2002/Amirsaleh2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
